@@ -1,0 +1,10 @@
+{
+    "firstName":"Hannah",
+    "lastName":"Donahue",
+    "age":17,
+    "picture": "https://q12.gallup.com/Content/images/Gallup_LinkedIn.png",
+    "nickNames": [
+        {"nick": "Handawg"},
+        {"nick": "Donahue"}
+    ]
+}
